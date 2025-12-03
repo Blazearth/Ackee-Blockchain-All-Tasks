@@ -40,14 +40,22 @@ Each task focuses on strengthening skills in smart contract analysis, secure Sol
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
+--------------------
 
 root/
-├── task1/ # Basic program setup & intro tasks
-├── task2/ # PDAs, instructions, validation tasks
-├── task3/ # SPL Token program & CPI tasks
-├── task4/ # Vulnerability findings & patches
-└── task5/ # Final audit-style challenge & report
+├── task1/
+├── task2/
+├── task3/
+├── task4/
+└── task5/
+
+Descriptions:
+- task1 : Basic program setup and introductory Solana tasks
+- task2 : PDA creation, instruction validation, account checks
+- task3 : SPL Token program, CPI, token operations
+- task4 : Vulnerability analysis and secure refactoring
+- task5 : Final audit-style challenge and security fixes
 
 
 ---
